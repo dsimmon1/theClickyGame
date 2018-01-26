@@ -1,0 +1,13 @@
+.picture {
+column-count: 3;
+    text-align: center;
+}
+
+.jumbotron {
+background-image: url("https://images.moviepilot.com/image/upload/c_fill,h_470,q_auto:good,w_620/iln7lzxt8ohm84ts5n1i.jpg");
+ background-size: 100% auto;
+}
+
+.picture > img {
+  width: 60%
+}

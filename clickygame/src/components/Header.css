@@ -1,0 +1,15 @@
+body {
+	background: black;
+}
+
+.navbar {
+	background: lightyellow;
+}
+
+li {
+	list-style-type: none;
+}
+
+.item2 {
+	float: left;
+}
