@@ -1,13 +1,32 @@
 .picture {
-column-count: 3;
     text-align: center;
+    display: inline-flex;
+    margin: 10px;
 }
 
-.jumbotron {
-background-image: url("https://images.moviepilot.com/image/upload/c_fill,h_470,q_auto:good,w_620/iln7lzxt8ohm84ts5n1i.jpg");
- background-size: 100% auto;
+
+.pictures{
+	margin-left: 60px;
+}
+
+.game {
+	text-align: center;
+	margin-left: 10px;
+}
+
+.rules {
+	margin: 20px;
+	padding: 20px;
+	background-color: rgb(97,103,116);
+	border-radius: 25px;
+	border: 2px solid black;
+	color: black;
 }
 
 .picture > img {
-  width: 60%
+  width: 30%;
+  height: 150px;
+  padding: 10px;
+  margin: 2px;
+  border: 2px solid grey;
 }
