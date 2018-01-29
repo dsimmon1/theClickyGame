@@ -9,6 +9,7 @@
     "react-scripts": "1.1.0",
     "shuffle-array": "^1.0.1"
   },
+  "homepage": "https://dsimmon1.github.io/theClickyGame/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
