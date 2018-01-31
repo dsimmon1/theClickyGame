@@ -12,18 +12,18 @@
 4 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:78:16
 4 verbose stack     at tryToString (fs.js:457:3)
 4 verbose stack     at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:444:12)
-5 verbose cwd /Users/diana/Documents/Coding_Bootcamp_Homework/theClickyGame/clickygame
+5 verbose cwd /Users/diana/Documents/Coding_Bootcamp_Homework/theClickyGame
 6 error Darwin 16.7.0
 7 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "deploy"
 8 error node v6.11.4
 9 error npm  v3.10.10
-10 error file /Users/diana/Documents/Coding_Bootcamp_Homework/theClickyGame/clickygame/package.json
+10 error file /Users/diana/Documents/Coding_Bootcamp_Homework/theClickyGame/package.json
 11 error code EJSONPARSE
 12 error Failed to parse json
 12 error Trailing comma in object at 19:3
 12 error   }
 12 error   ^
-13 error File: /Users/diana/Documents/Coding_Bootcamp_Homework/theClickyGame/clickygame/package.json
+13 error File: /Users/diana/Documents/Coding_Bootcamp_Homework/theClickyGame/package.json
 14 error Failed to parse package.json data.
 14 error package.json must be actual JSON, not just JavaScript.
 14 error
